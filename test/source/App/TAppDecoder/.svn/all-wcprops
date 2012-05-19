@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/svn_HEVCSoftware/!svn/ver/1429/tags/HM-4.1rc1/source/App/TAppDecoder
+END
+TAppDecCfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/svn_HEVCSoftware/!svn/ver/1429/tags/HM-4.1rc1/source/App/TAppDecoder/TAppDecCfg.cpp
+END
+decmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/svn_HEVCSoftware/!svn/ver/1429/tags/HM-4.1rc1/source/App/TAppDecoder/decmain.cpp
+END
+TAppDecTop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/svn_HEVCSoftware/!svn/ver/1429/tags/HM-4.1rc1/source/App/TAppDecoder/TAppDecTop.cpp
+END
+TAppDecCfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_HEVCSoftware/!svn/ver/1429/tags/HM-4.1rc1/source/App/TAppDecoder/TAppDecCfg.h
+END
+TAppDecTop.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/svn_HEVCSoftware/!svn/ver/1429/tags/HM-4.1rc1/source/App/TAppDecoder/TAppDecTop.h
+END
